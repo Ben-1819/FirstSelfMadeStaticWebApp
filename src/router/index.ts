@@ -7,12 +7,12 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      name: 'home',
+      name: 'Home',
       component: Home,
     },
     {
-      path: '/',
-      name: 'switchyButton',
+      path: '/switchyButton',
+      name: 'SwitchyButton',
       component: SwitchyButton,
     },
   ],

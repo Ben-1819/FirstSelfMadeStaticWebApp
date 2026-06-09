@@ -13,7 +13,7 @@ const toggleShow = () => {
 
 const goToHome = () => {
   router.push({
-    name: 'home',
+    name: 'Home',
   });
 };
 </script>
